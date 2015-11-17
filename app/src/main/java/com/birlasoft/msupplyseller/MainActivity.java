@@ -29,7 +29,7 @@ public class MainActivity extends Activity {
         window.setStatusBarColor(getApplicationContext().getResources().getColor(R.color.colorPrimaryDark));*/
     }
 
-
+//added a comment
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
 
